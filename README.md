@@ -1,22 +1,34 @@
-Hi, I’m Raamiz Hussain Shikoh — a Computer Science undergrad 🎓 passionate about building data-driven and AI-powered solutions.
+<h1 align="center">Hi 👋, I'm Raamiz Hussain Shikoh</h1>
+<h3 align="center">A passionate Computer Science undergrad and Data Science enthusiast</h3>
 
-I enjoy working at the intersection of data science, machine learning, and real-world automation.
+- 🔭 I’m currently working on:
+  - LexIntellect – legal document analyzer using NLP
+  - AgriAI – deep learning-based plant disease detection
+  - College Bus Tracker – IoT + automation system
 
-🧠 Projects I've worked on:
+- 🌱 I’m currently learning:
+  - Computer Vision with OpenCV
+  - Streamlit for web apps
+  - Data storytelling & dashboarding
 
-LexIntellect – Legal contract analysis using NLP 🤖
+- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/raamizhussain)
 
-AgriAI – Plant disease detection with deep learning 🌱
+- 📫 Reach me at: raamizhs@gmail.com  
+- 📄 Know more about my experience: [LinkedIn](https://linkedin.com/in/raamizhussain)
 
-Gender & Emotion Detection – Computer vision for demographics 🎥
+---
 
-Sales Data Analysis – Python dashboards & insights 📊
+### 🛠️ Languages & Tools:
 
-RFID Bus Tracker – Real-time entry system for college buses 🚌
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
 
-🔧 Tech I use: Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, SQL, Streamlit, Figma
+---
 
-Always learning, building, and open to collaboration 🤝
+### 📊 GitHub Stats:
 
-📫 Email: raamizhs@gmail.com
-🔗 LinkedIn: linkedin.com/in/raamizhussain*
+![Raamiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=raamizhussain&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raamizhussain&layout=compact&theme=radical)
