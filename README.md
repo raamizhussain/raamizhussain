@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raamiz Hussain Shikoh</h1>
-<h3 align="center">A passionate Computer Science undergrad and Data Science enthusiast</h3>
+<h3 align="center">A passionate Computer Science undergrad and Data Science, Machine Learning enthusiast</h3>
 
 - 🔭 I’m currently working on:
   - LexIntellect – legal document analyzer using NLP
