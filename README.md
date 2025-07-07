@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raamiz Hussain Shikoh</h1>
 <h3 align="center">A passionate Computer Science undergrad and Data Science, Machine Learning enthusiast</h3>
 
-- 🔭 I’m currently working on:
-  - LexIntellect – legal document analyzer using NLP
-  - AgriAI – deep learning-based plant disease detection
-  - College Bus Tracker – IoT + automation system
+- 🔭 I’m currently working on some interesting Machine Learning and Data Science projects.
 
 - 🌱 I’m currently learning:
-  - Computer Vision with OpenCV
-  - Streamlit for web apps
-  - Data storytelling & dashboarding
+  - Machine Learning
+  - Data Science
 
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/raamizhussain)
 
