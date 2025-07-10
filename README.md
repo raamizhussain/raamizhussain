@@ -7,8 +7,8 @@
   - Machine Learning
   - Data Science
 
+- Portfolio: https://raamiz.vercel.app/
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/raamizhussain)
-
 - 📫 Reach me at: raamizhs@gmail.com  
 - 📄 Know more about my experience: [LinkedIn](https://linkedin.com/in/raamizhussain)
 
