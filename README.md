@@ -4,7 +4,7 @@
 
 <div align="center">
 
-🇮🇳 **Chennai, India** • 📚 **SRM IST • 3rd Year** • 🎯 **CGPA: 9.67/10** • 🤖 **AI Specialist**
+🇮🇳 **Chennai, India** • 📚 **SRM IST • 3rd Year** • 🎯 **CGPA: 9.65/10** • 🤖 **AI Specialist**
 
 </div>
 
@@ -12,10 +12,9 @@
 
 ## 🚀 Featured Achievements
 
-| 🏆 | 🤖 | ☁️ |
+| Production AI | Multi-Agent Systems | Cloud Certifications |
 |:---:|:---:|:---:|
-| **Hackathon Top 15** | **Production AI Systems** | **4 Cloud Certifications** |
-| *Hack-n-Droid • 36-Hour Build* | *Multi-Agent Orchestration* | *AWS • Azure • Oracle* |
+| **Real-World Deployments** | **LangGraph Orchestration** | **4 Cloud Platforms** |
 
 ---
 
@@ -51,15 +50,7 @@ Production computer vision pipeline for real-time crowd density and movement tra
 
 ---
 
-### ⚖️ **AI Legal Platform**
-*Hackathon Winner • 36-Hour Build*
 
-AI-driven dispute resolution, case outcome prediction, and contract analysis. Built in just 36 hours at Hack-n-Droid VIT Chennai and ranked in the **Top 15 out of 100+ teams**. Demonstrates rapid prototyping with production-grade ML.
-
-**Tech Stack:**
-`LLM` • `ML` • `FastAPI` • `Hackathon`
-
----
 
 ## 🧠 Technical Arsenal
 
@@ -83,11 +74,12 @@ AI-driven dispute resolution, case outcome prediction, and contract analysis. Bu
 
 ---
 
-## 🏆 Certifications & Credentials
+## 🏆 Certifications
 
-| 🟠 | 🔵 | 🟣 | 🟡 |
-|:---:|:---:|:---:|:---:|
-| **AWS Cloud Practitioner** | **Azure Fundamentals** | **Oracle Cloud Infrastructure** | **Google Cloud Associate** |
+- **AWS Cloud Practitioner**
+- **Azure Fundamentals**
+- **Oracle Cloud Infrastructure**
+- **Google Cloud Associate**
 
 ---
 
